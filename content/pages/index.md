@@ -59,9 +59,9 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: >
+      “Five Stones Church exist to see people set free, transformed and fully
+      alive through the power of Jesus Christ.”
     name: Isabelle Parks
     title: Head chef at Parks
     styles:

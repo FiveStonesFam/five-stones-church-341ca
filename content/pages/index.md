@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: full
-    title: We do fishing differently
+    title: 'Launching September '
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button

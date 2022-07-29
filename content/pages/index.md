@@ -38,7 +38,7 @@ sections:
       opacity: 85
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         padding:
           - pt-20

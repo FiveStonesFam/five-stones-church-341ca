@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: Launching September 11th
-    subtitle: Fresh. Better. Faster.
+    subtitle: '@ East Brainerd Elementary'
     actions:
       - type: Button
         label: Get Started

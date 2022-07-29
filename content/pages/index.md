@@ -63,7 +63,7 @@ sections:
       “Five Stones Church exist to see people set free, transformed and fully
       alive through the power of Jesus Christ.”
     name: Tom Watson
-    title: Head chef at Parks
+    title: Senior Pastor
     styles:
       self:
         height: auto

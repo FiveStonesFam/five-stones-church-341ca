@@ -62,7 +62,7 @@ sections:
     quote: >
       “Five Stones Church exist to see people set free, transformed and fully
       alive through the power of Jesus Christ.”
-    name: Isabelle Parks
+    name: Tom Watson
     title: Head chef at Parks
     styles:
       self:

@@ -7,7 +7,7 @@
         "primaryColors": "colors-d",
         "secondaryColors": "colors-d",
         "title": "Five Stones Church",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",

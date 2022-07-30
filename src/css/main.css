@@ -7,7 +7,6 @@
 @layer base {
     body {
         @apply bg-main text-base flex flex-col min-h-screen;
-        scroll-behavior: smooth;
     }
     #__next,
     .sb-page,

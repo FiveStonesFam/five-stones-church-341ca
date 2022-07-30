@@ -25,7 +25,7 @@
                 "type": "Link",
                 "label": "Next Steps",
                 "altText": "",
-                "url": "/",
+                "url": "/next-steps",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

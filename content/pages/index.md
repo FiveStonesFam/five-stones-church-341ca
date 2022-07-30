@@ -24,7 +24,7 @@ sections:
     actions:
       - type: Button
         label: Join the Team
-        url: 'https://www.stackbit.com/'
+        url: '/join'
         style: primary
         iconPosition: right
         icon: arrowRight

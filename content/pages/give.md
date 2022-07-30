@@ -56,7 +56,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Give
-    subtitle: Fresh. Better. Faster.
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:
       - type: Button

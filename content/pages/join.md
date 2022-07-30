@@ -66,7 +66,7 @@ sections:
         - type: TextFormControl
           name: phone
           label: Phone Number
-          placeholder: Your home address
+          placeholder: Your phone number
           isRequired: 'false'
           width: full
       submitLabel: Send Message

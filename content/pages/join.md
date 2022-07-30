@@ -42,7 +42,7 @@ sections:
       type: FormBlock
       elementId: contact-form
       action: /.netlify/functions/submission_created
-      destination: ''
+      destination: website@fivestonesfamily.com
       fields:
         - type: TextFormControl
           name: first-name

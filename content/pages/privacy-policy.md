@@ -260,13 +260,7 @@ sections:
     variant: variant-a
     title: How to Disable Cookies
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "Most modern browsers allow you to control your cookie settings for all websites that you browse. You can disable cookie deployment completely by editing your browser settings; however, in doing this, you may be limiting the functionality that is displayed on our website. To learn how to disable cookies on your preferred browser, we recommend reading\_[this advice posted by Google](http://support.google.com/accounts/bin/answer.py?hl=en\\&answer=61416).\n\nIf you are concerned about cookies tracking your movements on the Internet, then you may be concerned about spyware. Spyware is the name given to a particular band of cookies that track personal information about you. There are many anti-spyware programs that you can use to prevent this from happening. Learn more about anti-spyware software by visiting\_[http://en.wikipedia.org/wiki/Spyware.\_](http://en.wikipedia.org/wiki/Spyware)You can also disable Google Analytics on all websites\_by downloading the\_[Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).\n"
     styles:
       self:
         height: auto

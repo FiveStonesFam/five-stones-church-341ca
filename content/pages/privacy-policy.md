@@ -46,7 +46,7 @@ sections:
         textAlign: left
   - type: TextSection
     colors: colors-d
-    elementId: ''
+    elementId: pp_one
     variant: variant-a
     title: Information Collected by Our Website
     subtitle: ''

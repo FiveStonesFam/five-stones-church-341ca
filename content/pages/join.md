@@ -50,12 +50,6 @@ sections:
           placeholder: Your name
           isRequired: 'true'
           width: 1/2
-        - type: EmailFormControl
-          name: email
-          label: Email
-          placeholder: Your email
-          isRequired: 'true'
-          width: 1/2
         - type: TextFormControl
           name: last-name
           label: Last Name
@@ -63,6 +57,12 @@ sections:
           placeholder: Your name
           isRequired: false
           width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          placeholder: Your email
+          isRequired: 'true'
+          width: 1/2
         - type: TextFormControl
           name: address
           label: Home address

@@ -71,7 +71,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: The Section Title
+    title: Our Commitment to Data Security
     subtitle: ''
     text: >+
       To prevent unauthorized access, maintain data accuracy and ensure the

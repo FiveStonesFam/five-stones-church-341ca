@@ -64,7 +64,7 @@ sections:
           width: full
         - type: TextFormControl
           name: last-name
-          label: Home address
+          label: Last Name
           hideLabel: false
           placeholder: Your home address
           isRequired: false

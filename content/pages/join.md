@@ -73,7 +73,7 @@ sections:
           name: comments
           label: Comments
           hideLabel: false
-          placeholder: Please describe
+          placeholder: Anything you would like us to know?
           isRequired: false
           width: full
       submitLabel: Send Message

@@ -9,7 +9,9 @@ title: Giving
 sections:
   - type: HeroSection
     colors: colors-d
-    title: We do fishing differently
+    title: >-
+      God can use you to transform and impact an entire city through your
+      generosity!
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button

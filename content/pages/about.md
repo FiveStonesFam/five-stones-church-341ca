@@ -134,8 +134,8 @@ sections:
     colors: colors-d
     title: Join the Launch Team
     text: >
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
+      Contact us to get more information about Five Stones Church launch and how
+      you can get involved or join the team.
     form:
       type: FormBlock
       elementId: sign-up-form

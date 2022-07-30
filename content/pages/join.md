@@ -46,7 +46,7 @@ sections:
       fields:
         - type: TextFormControl
           name: first-name
-          label: Name
+          label: First Name
           placeholder: Your name
           isRequired: 'true'
           width: 1/2

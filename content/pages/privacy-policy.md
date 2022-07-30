@@ -281,7 +281,6 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Contact Us
     actions:
       - type: Button
         label: Try it now

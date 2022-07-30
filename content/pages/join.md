@@ -62,6 +62,13 @@ sections:
           placeholder: Your home address
           isRequired: 'false'
           width: full
+        - type: TextFormControl
+          name: home-address
+          label: Home address
+          hideLabel: false
+          placeholder: Your home address
+          isRequired: false
+          width: full
       submitLabel: Send Message
     media:
       type: ImageBlock

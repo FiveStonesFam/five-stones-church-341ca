@@ -36,7 +36,8 @@
                 "label": "Messages",
                 "url": "/blog",
                 "altText": "Messages",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "apple"
             }
         ],
         "secondaryLinks": [

@@ -13,13 +13,36 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      ##
+
+
+      #### Revised February 21, 2019
+
+
+      *   [Information Collected by Our
+      Website](https://www.churchofthehighlands.com/site/privacy#pp_one)
+
+
+      *   [Our Commitment to Data
+      Security](https://www.churchofthehighlands.com/site/privacy#pp_two)
+
+
+      *   [An Introduction to
+      Cookies](https://www.churchofthehighlands.com/site/privacy#pp_three)
+
+
+      *   [Cookies Used by Our
+      Website](https://www.churchofthehighlands.com/site/privacy#pp_four)
+
+
+      *   [Actual Cookies
+      Deployed](https://www.churchofthehighlands.com/site/privacy#pp_five)
+
+
+      *   [How to Disable
+      Cookies](https://www.churchofthehighlands.com/site/privacy#pp_six)
+
     styles:
       self:
         height: auto

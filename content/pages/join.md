@@ -64,7 +64,7 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
-          name: address
+          name: phone
           label: Home address
           placeholder: Your home address
           isRequired: 'false'

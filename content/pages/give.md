@@ -71,7 +71,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: 'https://fivestonesfamily.churchcenter.com/giving'
         altText: Give Online Now
     media:
       type: ImageBlock

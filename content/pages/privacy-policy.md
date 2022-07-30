@@ -282,9 +282,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Contact Us
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
     actions:
       - type: Button
         label: Try it now

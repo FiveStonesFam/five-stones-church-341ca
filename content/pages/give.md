@@ -67,7 +67,7 @@ sections:
       Make a one-time or recurring financial gift.
     actions:
       - type: Button
-        label: Join adventure
+        label: Give Online Now
         showIcon: true
         icon: arrowRight
         style: primary

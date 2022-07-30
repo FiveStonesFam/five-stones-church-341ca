@@ -52,7 +52,7 @@ sections:
       title:
         textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
         textAlign: left
       actions:

@@ -142,7 +142,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/FIVESTONES_horz.png",
-            "altText": "altText of the image",
+            "altText": "Five Stones Church Logo",
             "caption": "Caption of the image",
             "elementId": ""
         }

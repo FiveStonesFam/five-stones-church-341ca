@@ -23,7 +23,7 @@ sections:
     subtitle: '@ East Brainerd Elementary'
     actions:
       - type: Button
-        label: Get Started
+        label: Join the Team
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right

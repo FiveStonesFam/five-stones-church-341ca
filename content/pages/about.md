@@ -100,7 +100,9 @@ sections:
     variant: variant-c
     colors: colors-c
     title: Our Team
-    subtitle: Vestibulum id ligula porta felis euismod semper.
+    subtitle: >-
+      Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus
+      magna, vel scelerisque nisl consectetur et.
     people:
       - content/data/team/hilary-ouse.json
       - content/data/team/dianne-ameter.json

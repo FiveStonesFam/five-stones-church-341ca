@@ -114,13 +114,63 @@ sections:
     variant: variant-a
     title: An Introduction to Cookies
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      A cookie is a small data file that is automatically placed onto your
+      computer’s hard drive. Cookie files are created by our website and placed
+      onto your device in order to analyze and influence your preferences or
+      behavior. Analytical cookies are designed to track your journey and
+      experience on our website so that we may tailor your experience and gather
+      data. Overall, cookies help us provide you with a better website by
+      enabling us to monitor which pages you find useful and which you do not. A
+      cookie in no way gives us access to your computer or any information about
+      you other than the data you choose to share with us.
+
+
+      The majority of modern web browsers will automatically allow cookies to be
+      placed onto your device. However, you can usually modify your browser’s
+      settings in order to prevent any cookies from being placed onto your
+      device. Setting your browser to block cookies may prevent you from taking
+      full advantage of our website.
+
+
+      ### COOKIES DEPLOYED BY OUR WEBSITE:
+
+
+      *   Ensure that functionality operates as intended
+
+
+      *   Remember your choices and preferences during and between visits
+
+
+      *   Allow you to share pages via popular social media networks including
+      Facebook and Twitter
+
+
+      *   Post enquiries via online forms
+
+
+      *   Track your visit for statistical analysis, allowing us to improve the
+      usability, speed and security of our website
+
+
+      ### COOKIES ARE NOT DEPLOYED TO:
+
+
+      *   Collect any personal identifiable information (without your express
+      permission)
+
+
+      *   Collect any sensitive information (without your express permission)
+
+
+      *   Pass data to advertising networks
+
+
+      *   Pass personally-identifiable data to third parties
+
+
+      *   Pay sales commissions
+
     styles:
       self:
         height: auto

@@ -2,7 +2,7 @@
     "type": "Person",
     "firstName": "Thomas",
     "lastName": "Watson",
-    "role": "Head fisherman",
+    "role": "Senior Pastor",
     "image": {
         "type": "ImageBlock",
         "url": "/images/hilary-ouse.png",

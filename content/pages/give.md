@@ -65,6 +65,19 @@ sections:
 
 
       Make a one-time or recurring financial gift.
+
+
+      Cash or check can be sent to:
+
+
+      ``
+
+      P.O. Box 103
+
+      Ooltewah, TN 37363
+
+
+      ``
     actions:
       - type: Button
         label: Give Online Now

@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Button
         label: Give Online Now
-        url: /
+        url: 'https://fivestonesfamily.churchcenter.com/giving'
         showIcon: true
         icon: arrowRight
         iconPosition: right

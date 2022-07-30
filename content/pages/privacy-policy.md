@@ -73,8 +73,24 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: ''
-    text: |+
-      ##
+    text: >+
+      To prevent unauthorized access, maintain data accuracy and ensure the
+      correct use of information, we have placed appropriate physical,
+      electronic and managerial procedures to safeguard and secure the
+      information we collect online and believe these faculties to be secure to
+      the best of our knowledge and ability; however, Church of the Highlands
+      does not warrant, guarantee, and/or absolve security and/or unintentional
+      disclosure of personal, identifiable information.
+
+
+      *   PAYMENT SECURITY
+          We will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. We will never store your credit/debit card information on our website. All electronic transactions you make to or receive from us will be encrypted. Of course, data transmission over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet. You are responsible for keeping your password and user details confidential. We will not ask you for your password.
+
+      <!---->
+
+
+      *   EXTERNAL LINKS
+          Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over the other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites, and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
     styles:
       self:

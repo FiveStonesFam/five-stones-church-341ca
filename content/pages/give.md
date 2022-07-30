@@ -67,17 +67,21 @@ sections:
       Make a one-time or recurring financial gift.
 
 
-      Cash or check can be sent to:
+      **Cash or check can be sent to:**
 
 
-      ``
+      ```
+
+      Five Stones Church
 
       P.O. Box 103
 
       Ooltewah, TN 37363
 
+      ```
 
-      ``
+
+      **Make checks payable to Five Stones Church**
     actions:
       - type: Button
         label: Give Online Now

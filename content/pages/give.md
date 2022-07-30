@@ -21,6 +21,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Give Online Now
     media: null
     backgroundImage:
       type: BackgroundImage

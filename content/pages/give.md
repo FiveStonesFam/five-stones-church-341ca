@@ -67,9 +67,9 @@ sections:
       **Cash or check can be sent to:**
 
 
-      > Five Stones Church\
+      > Five Stones Church  
 
-      > P.O. Box 103\
+      > P.O. Box 103  
 
       > Ooltewah, TN 37363
 

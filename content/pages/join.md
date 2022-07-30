@@ -66,7 +66,7 @@ sections:
           name: last-name
           label: Last Name
           hideLabel: false
-          placeholder: Your home address
+          placeholder: Your name
           isRequired: false
           width: full
       submitLabel: Send Message

@@ -40,7 +40,7 @@ sections:
       of people where no one is perfect but everyone is welcome. We want to see
       people set free from the shame of their past and baggage of religion.
       Where instead of finding rules and regulations you will find authentic
-      community. Instead of a list of do’s and don’ts, you will discover your
+      community. Instead of a list of do’s and dont's, you will discover your
       purpose and begin truly making a difference in the lives of others.
     styles:
       self:

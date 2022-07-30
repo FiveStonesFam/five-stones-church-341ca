@@ -15,7 +15,7 @@ sections:
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
-        label: Get Started
+        label: Give Online Now
         url: /
         showIcon: true
         icon: arrowRight

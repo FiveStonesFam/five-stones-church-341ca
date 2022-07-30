@@ -68,7 +68,7 @@ sections:
           label: Phone Number
           placeholder: Your phone number
           isRequired: 'false'
-          width: full
+          width: 1/2
       submitLabel: Send Message
     media:
       type: ImageBlock

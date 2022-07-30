@@ -19,13 +19,29 @@ sections:
     colors: colors-d
     variant: variant-a
     title: Why Chattanooga?
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
+    text: >
+      So, why Chattanooga? Since 2010 Chattanooga has outpaced almost every
+      other county in Tennessee to become the second-fastest-growing big city in
+      the state. That growth is visible throughout downtown and surrounding
+      communities. A simple drive anywhere in the city and you’ll see cranes,
+      road construction, and "coming soon" signs scattered everywhere you go.
+      Chattanooga has grown and will continue to grow and we think that's a good
+      thing.
 
 
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+      For years Chattanooga has actually been considered one of the most
+      religious cities in America. But religion was never what Jesus had on His
+      heart for us. Jesus didn’t intend for His church to be a “members-only
+      club” where only the super holy people who had it all together could
+      attend.
+
+
+      We see Five Stones Church as a different kind of church. We are a family
+      of people where no one is perfect but everyone is welcome. We want to see
+      people set free from the shame of their past and baggage of religion.
+      Where instead of finding rules and regulations you will find authentic
+      community. Instead of a list of do’s and don’ts, you will discover your
+      purpose and begin truly making a difference in the lives of others.
     styles:
       self:
         height: auto

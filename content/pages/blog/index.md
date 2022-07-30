@@ -25,7 +25,9 @@ bottomSections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
+    text: |+
+      ## [Follow us on Instagram](https://www.instagram.com/fivestonesfamily/)
+
     styles:
       self:
         height: auto

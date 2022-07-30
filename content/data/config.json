@@ -35,7 +35,8 @@
                 "type": "Link",
                 "label": "Messages",
                 "url": "/blog",
-                "altText": "Messages"
+                "altText": "Messages",
+                "showIcon": true
             }
         ],
         "secondaryLinks": [

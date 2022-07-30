@@ -56,7 +56,15 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Give
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: >
+      Through your financial partnership with Five Stones Church, we will see
+      people from all walks of life set free, transformed, and become fully
+      alive through the power of Jesus Christ. Thank you so much for your
+      generosity towards Five Stones Church! Every gift of every amount helps to
+      change the world in Jesus’ name!
+
+
+      Make a one-time or recurring financial gift.
     actions:
       - type: Button
         label: Join adventure

@@ -58,10 +58,12 @@ sections:
     title: Give
     text: |
       **Cash or check can be sent to:**
-      > Five Stones Church  
-      > P.O. Box 103  
-      > Ooltewah, TN 37363  
-      * *Make checks payable to **Five Stones Church***
+
+      > Five Stones Church\
+      > P.O. Box 103\
+      > Ooltewah, TN 37363
+
+      *\*Make checks payable to **Five Stones Church***
     actions:
       - type: Button
         label: Give Online Now

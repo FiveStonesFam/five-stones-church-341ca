@@ -288,6 +288,7 @@ sections:
         icon: arrowRight
         url: /
         style: primary
+        altText: contact us
     backgroundImage: null
     styles:
       self:

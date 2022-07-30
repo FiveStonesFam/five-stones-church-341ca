@@ -132,7 +132,7 @@ sections:
     type: FeaturedPeopleSection
   - type: ContactSection
     colors: colors-d
-    title: Join our club
+    title: Join the Launch Team
     text: >
       We will notify you every time a shipment is heading to your neighborhood,
       and you could immediatly let us know if you want in or not

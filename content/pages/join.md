@@ -32,4 +32,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: >-
+      We would love to talk with you and get you involved with the Five Stones
+      Family!
 ---

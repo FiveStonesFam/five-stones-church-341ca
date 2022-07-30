@@ -283,7 +283,7 @@ sections:
     backgroundSize: full
     actions:
       - type: Button
-        label: Try it now
+        label: Contact Us
         showIcon: true
         icon: arrowRight
         url: /

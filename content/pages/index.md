@@ -50,11 +50,11 @@ sections:
         flexDirection: row
         borderColor: border-primary
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
+        textAlign: left
       actions:
         justifyContent: flex-start
   - type: QuoteSection

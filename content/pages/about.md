@@ -170,7 +170,7 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-      submitLabel: Submit form
+      submitLabel: Contact Us
       styles:
         submitLabel:
           textAlign: center

@@ -61,7 +61,7 @@ sections:
 
       > Five Stones Church\
       > P.O. Box 103\
-      > Ooltewah, TN 37363\
+      > Ooltewah, TN 37363
 
       *Make checks payable to **Five Stones Church***
     actions:

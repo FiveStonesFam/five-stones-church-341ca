@@ -216,13 +216,33 @@ sections:
     variant: variant-a
     title: Actual Cookies Deployed
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Below is a table of information which lists all cookies deployed and used
+      on our website.
+
+
+
+      | **Cookie Category**          | **Cookie Name** | **Cookie
+      Description**                                                                                                                                                                                                                                                          
+      |
+
+      |------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+      | Google Analytics (Universal) | _ga             | The single default
+      cookie for Google Universal Analytics. This sole cookie used by Goole
+      Analytics stores a unique client identifier (Client ID) which is set
+      randomly. This cookie is set to expire after 24 months (2 years) and is
+      refreshed each time you visit our website. |
+
+      | Facebook_pixel               | fb_px           | Used by Facebook. This
+      cookie keeps track of the last 5 pages you visited on the site and allows
+      us to redirect you to the page you were on before submitting a comment or
+      sending us an email through a contact
+      form.                                                           |
+
+      |                              |                
+      |                                                                                                                                                                                                                                                                                 
+      |
     styles:
       self:
         height: auto

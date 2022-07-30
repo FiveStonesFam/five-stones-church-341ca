@@ -74,24 +74,4 @@ sections:
         textAlign: center
       title:
         textAlign: center
-  - type: TextSection
-    colors: colors-e
-    variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
 ---

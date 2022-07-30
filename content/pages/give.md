@@ -72,6 +72,7 @@ sections:
         icon: arrowRight
         style: primary
         url: /
+        altText: Give Online Now
     media:
       type: ImageBlock
       url: /images/hero-2.png

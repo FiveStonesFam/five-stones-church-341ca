@@ -189,7 +189,7 @@ sections:
         textAlign: left
   - type: TextSection
     colors: colors-d
-    elementId: ''
+    elementId: pp_four
     variant: variant-a
     title: Cookies Used by Our Website
     subtitle: ''

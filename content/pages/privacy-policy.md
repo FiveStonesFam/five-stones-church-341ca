@@ -13,35 +13,22 @@ sections:
     variant: variant-a
     title: Privacy Policy
     subtitle: ''
-    text: >+
+    text: |+
       ##
-
 
       #### Revised February 21, 2019
 
+      *   [Information Collected by Our Website](/privacy-policy#pp_one)
 
-      *   [Information Collected by Our
-      Website](https://www.churchofthehighlands.com/site/privacy#pp_one)
+      *   [Our Commitment to Data Security](/privacy-policy#pp_two)
 
+      *   [An Introduction to Cookies](/privacy-policy#pp_three)
 
-      *   [Our Commitment to Data
-      Security](https://www.churchofthehighlands.com/site/privacy#pp_two)
+      *   [Cookies Used by Our Website](/privacy-policy#pp_four)
 
+      *   [Actual Cookies Deployed](/privacy-policy#pp_five)
 
-      *   [An Introduction to
-      Cookies](https://www.churchofthehighlands.com/site/privacy#pp_three)
-
-
-      *   [Cookies Used by Our
-      Website](https://www.churchofthehighlands.com/site/privacy#pp_four)
-
-
-      *   [Actual Cookies
-      Deployed](https://www.churchofthehighlands.com/site/privacy#pp_five)
-
-
-      *   [How to Disable
-      Cookies](https://www.churchofthehighlands.com/site/privacy#pp_six)
+      *   [How to Disable Cookies](/privacy-policy#pp_six)
 
     styles:
       self:

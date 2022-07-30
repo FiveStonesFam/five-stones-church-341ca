@@ -38,7 +38,7 @@
             {
                 "type": "Button",
                 "label": "Give",
-                "url": "mailto:info@lorem.mail",
+                "url": "/give",
                 "altText": "Give",
                 "style": "secondary",
                 "showIcon": true,

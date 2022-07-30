@@ -17,9 +17,9 @@
             },
             {
                 "type": "Link",
-                "label": "Next Steps",
+                "label": "Learn more",
                 "altText": "",
-                "url": "/next-steps",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -27,9 +27,9 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Next Steps",
                 "altText": "",
-                "url": "/",
+                "url": "/next-steps",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

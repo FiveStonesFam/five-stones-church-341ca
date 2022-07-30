@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.png",
     "header": {
-        "headerVariant": "variant-a",
+        "headerVariant": "variant-c",
         "isSticky": true,
         "primaryColors": "colors-d",
         "secondaryColors": "colors-d",

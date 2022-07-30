@@ -71,7 +71,7 @@ sections:
           width: 1/2
         - type: TextareaFormControl
           name: comments
-          label: Description
+          label: Comments
           hideLabel: false
           placeholder: Please describe
           isRequired: false

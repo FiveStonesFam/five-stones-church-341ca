@@ -69,6 +69,13 @@ sections:
           placeholder: Your phone number
           isRequired: 'false'
           width: 1/2
+        - type: TextareaFormControl
+          name: description
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
       submitLabel: Send Message
     media:
       type: ImageBlock

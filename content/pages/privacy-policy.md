@@ -191,7 +191,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: The Section Title
+    title: Cookies Used by Our Website
     subtitle: ''
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

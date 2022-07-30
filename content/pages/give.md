@@ -12,7 +12,6 @@ sections:
     title: >-
       God can use you to transform and impact an entire city through your
       generosity!
-    subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
         label: Give Online Now

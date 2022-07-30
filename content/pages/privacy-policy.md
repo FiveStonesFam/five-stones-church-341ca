@@ -286,7 +286,7 @@ sections:
         label: Contact Us
         showIcon: true
         icon: arrowRight
-        url: /
+        url: 'mailto:website@fivestonesfamiy.com'
         style: primary
         altText: contact us
     backgroundImage: null

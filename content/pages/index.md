@@ -50,7 +50,7 @@ sections:
         flexDirection: row
         borderColor: border-primary
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
         textAlign: left
       text:

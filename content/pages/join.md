@@ -62,11 +62,6 @@ sections:
           placeholder: Your home address
           isRequired: 'false'
           width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          isRequired: 'false'
-          width: full
       submitLabel: Send Message
     media:
       type: ImageBlock

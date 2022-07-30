@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "firstName": "Thomas",
-    "lastName": "Ouse",
+    "lastName": "Watson",
     "role": "Head fisherman",
     "image": {
         "type": "ImageBlock",

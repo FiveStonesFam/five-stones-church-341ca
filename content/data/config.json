@@ -33,7 +33,7 @@
             },
             {
                 "type": "Link",
-                "label": "Adventures",
+                "label": "Messages",
                 "url": "/blog",
                 "altText": ""
             }

@@ -60,9 +60,9 @@ sections:
         textAlign: left
   - elementId: ''
     colors: colors-b
-    quote: >-
-      “This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her.”
+    quote: >
+      "We are a family of people where no one is perfect but everyone is
+      welcome."
     backgroundImage:
       type: BackgroundImage
       url: /images/bg.webp

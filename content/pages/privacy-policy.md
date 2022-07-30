@@ -256,7 +256,7 @@ sections:
         textAlign: left
   - type: TextSection
     colors: colors-d
-    elementId: pp
+    elementId: pp_six
     variant: variant-a
     title: How to Disable Cookies
     subtitle: ''

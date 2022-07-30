@@ -6,5 +6,6 @@
         "type": "ImageBlock",
         "url": "/images/desmond-eagle.png",
         "altText": "Desmond Eagle photo"
-    }
+    },
+    "bio": "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam id dolor id nibh ultricies vehicula ut id elit. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.\n\nInteger posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.\n"
 }

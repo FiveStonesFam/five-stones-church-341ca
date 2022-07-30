@@ -221,14 +221,13 @@ sections:
       on our website.
 
 
-
       | **Cookie Category**          | **Cookie Name** | **Cookie
       Description**                                                                                                                                                                                                                                                          
       |
 
       |------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-      | Google Analytics (Universal) | _ga             | The single default
+      | Google Analytics (Universal) | \_ga             | The single default
       cookie for Google Universal Analytics. This sole cookie used by Goole
       Analytics stores a unique client identifier (Client ID) which is set
       randomly. This cookie is set to expire after 24 months (2 years) and is
@@ -239,10 +238,6 @@ sections:
       us to redirect you to the page you were on before submitting a comment or
       sending us an email through a contact
       form.                                                           |
-
-      |                              |                
-      |                                                                                                                                                                                                                                                                                 
-      |
     styles:
       self:
         height: auto

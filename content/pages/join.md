@@ -63,7 +63,7 @@ sections:
           isRequired: 'false'
           width: full
         - type: TextFormControl
-          name: home-address
+          name: last-name
           label: Home address
           hideLabel: false
           placeholder: Your home address

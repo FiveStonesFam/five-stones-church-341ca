@@ -24,11 +24,12 @@ sections:
     actions:
       - type: Button
         label: Join the Team
-        url: '/join'
+        url: /join
         style: primary
         iconPosition: right
         icon: arrowRight
         showIcon: true
+        altText: Join the Team
     backgroundImage:
       type: BackgroundImage
       url: /images/hero.webp

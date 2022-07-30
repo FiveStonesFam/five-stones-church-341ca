@@ -132,11 +132,6 @@
                 "type": "Link",
                 "label": "Privacy Policy",
                 "url": "/privacy-policy"
-            },
-            {
-                "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
             }
         ],
         "styles": {

@@ -14,8 +14,6 @@ sections:
     title: Privacy Policy
     subtitle: ''
     text: |+
-      ##
-
       #### Revised February 21, 2019
 
       *   [Information Collected by Our Website](/privacy-policy#pp_one)

@@ -62,7 +62,7 @@ sections:
           label: Email
           placeholder: Your email
           isRequired: true
-          width: 1/2
+          width: full
         - type: TextFormControl
           name: address
           label: Home address

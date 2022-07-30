@@ -69,7 +69,7 @@ sections:
         textAlign: left
   - type: TextSection
     colors: colors-d
-    elementId: ''
+    elementId: pp_two
     variant: variant-a
     title: Our Commitment to Data Security
     subtitle: ''

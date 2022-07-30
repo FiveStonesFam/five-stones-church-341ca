@@ -32,6 +32,16 @@
                 "altText": "Messages",
                 "showIcon": false,
                 "icon": "youtube"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "secondaryLinks": [

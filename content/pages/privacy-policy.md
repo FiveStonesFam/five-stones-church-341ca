@@ -11,7 +11,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: The Section Title
+    title: Privacy Policy
     subtitle: ''
     text: >+
       ##

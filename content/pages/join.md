@@ -55,7 +55,7 @@ sections:
           label: Last Name
           hideLabel: false
           placeholder: Your last name
-          isRequired: false
+          isRequired: true
           width: 1/2
         - type: EmailFormControl
           name: email

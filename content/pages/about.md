@@ -139,7 +139,7 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
-      destination: website@f
+      destination: website@fivestonesfamily.com
       action: /.netlify/functions/submission_created
       fields:
         - name: firstName

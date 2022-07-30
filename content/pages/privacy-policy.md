@@ -212,7 +212,7 @@ sections:
         textAlign: left
   - type: TextSection
     colors: colors-d
-    elementId: ' pp_five'
+    elementId: pp_five
     variant: variant-a
     title: Actual Cookies Deployed
     subtitle: ''

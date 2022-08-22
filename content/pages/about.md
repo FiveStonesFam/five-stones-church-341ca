@@ -135,7 +135,6 @@ sections:
     elementId: ''
     variant: variant-a
     title: New to Five Stones?
-    subtitle: You Belong Here!
     text: >
       We all know what it feels like to be new somewhere so we want to help you
       plan your first visit to City Hope.

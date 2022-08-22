@@ -34,7 +34,7 @@ sections:
       step of the way! We even have an exclusive gift just for you.
 
 
-      ## **COME AS YOU ARE!**
+      ### **COME AS YOU ARE!**
 
 
       At Five Stones Church, there is no dress code. Wear whatever makes you

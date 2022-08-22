@@ -136,13 +136,48 @@ sections:
     variant: variant-a
     title: New to Five Stones?
     subtitle: You Belong Here!
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      # YOU BELONG HERE!
+
+
+      We all know what it feels like to be new somewhere so we want to help you
+      plan your first visit to City Hope.
+
+
+      ## **WHAT IS CITY HOPE?**
+
+
+      Whether you have been around church your entire life or this is your first
+      peek into it, City Hope Church has something for you. We hope you will
+      take the next step into this community of people led by Christ to bring
+      restoration, healing, and hope to the world—one life at a time.
+
+
+      ## **WHAT TO EXPECT:**
+
+
+      Visiting a new church can be intimidating, so let us walk through the
+      experience with you! The awesome thing about City Hope is that we’re all
+      new here. At City Hope Church, our first-time guests are VIP. From
+      parking, kids’ church, and post-experience, we’ll be there with you every
+      step of the way! We even have an exclusive gift just for you.
+
+
+      ## **COME AS YOU ARE!**
+
+
+      At City Hope Church, there is no dress code. Wear whatever makes you
+      comfortable! This is a judgement free zone!
+
+
+      ## **BRING THE KIDS!**
+
+
+      CityKIDS is available for children birth – 5th grade. Our goal each and
+      every weekend is to help you ensure that your child develops into the
+      leader God designed them to be. CityKIDS is available during each worship
+      experience so you can enjoy a great service knowing your child is being
+      loved and nurtured!
     styles:
       self:
         height: auto

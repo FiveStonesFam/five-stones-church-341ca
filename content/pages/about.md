@@ -137,14 +137,11 @@ sections:
     title: New to Five Stones?
     subtitle: You Belong Here!
     text: >
-      # YOU BELONG HERE!
-
-
       We all know what it feels like to be new somewhere so we want to help you
       plan your first visit to City Hope.
 
 
-      ## **WHAT IS CITY HOPE?**
+      ### **WHAT IS CITY HOPE?**
 
 
       Whether you have been around church your entire life or this is your first
@@ -153,7 +150,7 @@ sections:
       restoration, healing, and hope to the world—one life at a time.
 
 
-      ## **WHAT TO EXPECT:**
+      ### **WHAT TO EXPECT:**
 
 
       Visiting a new church can be intimidating, so let us walk through the
@@ -170,7 +167,7 @@ sections:
       comfortable! This is a judgement free zone!
 
 
-      ## **BRING THE KIDS!**
+      ### **BRING THE KIDS!**
 
 
       CityKIDS is available for children birth – 5th grade. Our goal each and

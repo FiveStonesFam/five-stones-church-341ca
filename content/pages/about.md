@@ -134,7 +134,7 @@ sections:
     colors: colors-e
     elementId: ''
     variant: variant-a
-    title: New to Five Stones
+    title: New to Five Stones?
     subtitle: The section subtitle
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

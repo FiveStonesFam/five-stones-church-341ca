@@ -136,7 +136,7 @@ sections:
     variant: variant-a
     title: New to Five Stones?
     text: >
-      ## **YOU BELONG HERE!**
+      ### **YOU BELONG HERE!**
 
 
       We all know what it feels like to be new somewhere so we want to help you

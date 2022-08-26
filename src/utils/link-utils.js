@@ -6,5 +6,5 @@ function jankMenu() {
 }
 
 module.exports = {
-    blar
+    jankMenu
 };

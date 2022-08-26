@@ -1,7 +1,7 @@
 import * as React from 'react';
 import NextLink from 'next/link';
 
-export default function Blar({ children, href, ...other }) {
+export default function Menu({ children, href, ...other }) {
     // Pass Any internal link to Next.js Link, for anything else, use <a> tag
     const internal = /^\/(?!\/)/.test(href);
     if (internal) {

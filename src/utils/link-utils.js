@@ -1,7 +1,7 @@
 const path = require('path');
 
 function blar() {
-    const 
+    const aboutLink = document.querySelector('')
 }
 
 module.exports = {

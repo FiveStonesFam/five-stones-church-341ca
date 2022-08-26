@@ -78,7 +78,7 @@ function HeaderVariantB(props) {
                     data-sb-field-path=".primaryLinks"
                 >
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
-                    hey
+
                 </ul>
             )}
             {secondaryLinks.length > 0 && (

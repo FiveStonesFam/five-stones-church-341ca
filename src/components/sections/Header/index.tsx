@@ -198,7 +198,7 @@ function ListOfLinks({ links, inMobileMenu }) {
     ));
 }
 
-function 
+function Bobity
 
 function mapHeaderMaxWidthStyles(width) {
     switch (width) {

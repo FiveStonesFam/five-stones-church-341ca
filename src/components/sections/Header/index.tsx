@@ -198,6 +198,8 @@ function ListOfLinks({ links, inMobileMenu }) {
     ));
 }
 
+function 
+
 function mapHeaderMaxWidthStyles(width) {
     switch (width) {
         case 'narrow':

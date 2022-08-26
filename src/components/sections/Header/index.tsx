@@ -198,14 +198,6 @@ function ListOfLinks({ links, inMobileMenu }) {
     ));
 }
 
-function Bobity({ links, inMobilMenu }) {
-    return links.map((link, index) => (
-        <li key={index}>
-            <Blar {...link} />
-        </li>
-    ))
-}
-
 function mapHeaderMaxWidthStyles(width) {
     switch (width) {
         case 'narrow':

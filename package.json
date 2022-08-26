@@ -27,8 +27,7 @@
         "sourcebit": "^0.11.0",
         "sourcebit-source-filesystem": "^0.2.0",
         "sourcebit-target-next": "^0.7.1",
-        "tailwindcss": "^2.2.4",
-        "@headlessui/react": "^1.6.6"
+        "tailwindcss": "^2.2.4"
     },
     "devDependencies": {
         "@next/bundle-analyzer": "^11.1.2",

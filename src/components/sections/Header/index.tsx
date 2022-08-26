@@ -82,7 +82,7 @@ function HeaderVariantB(props) {
             {secondaryLinks.length > 0 && (
                 <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".secondaryLinks">
                     <ListOfLinks links={secondaryLinks} inMobileMenu={false} />
-                    <li><Action nextLink className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} /></li>
+                    <li><Action nextLink  data-sb-field-path={`.${index}`} /></li>
                 </ul>
             )}
             {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}

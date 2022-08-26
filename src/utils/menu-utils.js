@@ -1,6 +1,7 @@
 const path = require('path');
 
 function jankMenu() {
+    console.log( 'hello' )
     // const aboutLink = document.querySelector('[href="/about/"]')
     // const element = document.createElement('div');
     //       element.classList.add('blar');

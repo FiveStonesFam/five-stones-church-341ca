@@ -197,6 +197,14 @@ function ListOfLinks({ links, inMobileMenu }) {
     ));
 }
 
+function ListOfLinks({ links, inMobileMenu }) {
+    return links.map((link, index) => (
+        <li key={index}>
+            <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+        </li>
+    ));
+}
+
 function mapHeaderMaxWidthStyles(width) {
     switch (width) {
         case 'narrow':

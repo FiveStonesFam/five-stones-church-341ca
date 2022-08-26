@@ -200,7 +200,9 @@ function ListOfLinks({ links, inMobileMenu }) {
 
 function Bobity({ links, inMobilMenu }) {
     return links.map((link, index) => (
-        <li key={index}
+        <li key={index}>
+            
+        </li>
     ))
 }
 

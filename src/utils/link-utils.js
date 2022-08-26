@@ -1,6 +1,6 @@
 const path = require('path');
 
-function 
+function blar
 
 module.exports = {
     urlPathFromFilePath,

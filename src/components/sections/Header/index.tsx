@@ -198,14 +198,6 @@ function ListOfLinks({ links, inMobileMenu }) {
     ));
 }
 
-function MenuOfLinks({ links, inMobileMenu }) {
-    return links.map((link, index) => (
-        <li key={index}>
-            <MyDropdown {...link}></MyDropdown>
-        </li>
-    ));
-}
-
 function mapHeaderMaxWidthStyles(width) {
     switch (width) {
         case 'narrow':

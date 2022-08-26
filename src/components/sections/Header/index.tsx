@@ -199,7 +199,9 @@ function ListOfLinks({ links, inMobileMenu }) {
 }
 
 function Bobity({ links, inMobilMenu }) {
-    return links.map((link, index) => ())
+    return links.map((link, index) => (
+        
+    ))
 }
 
 function mapHeaderMaxWidthStyles(width) {

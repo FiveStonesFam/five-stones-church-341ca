@@ -198,7 +198,9 @@ function ListOfLinks({ links, inMobileMenu }) {
     ));
 }
 
-function Bobity
+function Bobity({ links, inMobilMenu }) {
+    return links.map((link, index))
+}
 
 function mapHeaderMaxWidthStyles(width) {
     switch (width) {

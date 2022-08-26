@@ -1,7 +1,7 @@
 const path = require('path');
 
 function blar() {
-    const aboutLink = document.querySelector('[href=about]')
+    const aboutLink = document.querySelector('[href="about]')
     console.log( aboutLink )
 }
 

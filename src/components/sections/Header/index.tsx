@@ -54,7 +54,7 @@ function HeaderVariantA(props) {
             {primaryLinks.length > 0 && (
                 <ul className="hidden lg:flex lg:items-center mr-8 space-x-8" data-sb-field-path=".primaryLinks">
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
-                    <MyDropdown
+                    <MyDropdown></MyDropdown>
                 </ul>
             )}
             {secondaryLinks.length > 0 && (

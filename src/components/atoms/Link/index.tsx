@@ -19,4 +19,3 @@ export default function Link({ children, href, ...other }) {
         </a>
     );
 }
-

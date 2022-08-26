@@ -48,7 +48,6 @@ function HeaderVariants(props) {
 
 function HeaderVariantA(props) {
     const { title, isTitleVisible, logo, primaryLinks = [], secondaryLinks = [] } = props;
-    blar();
     return (
         <div className="flex items-center relative">
             <SiteLogoLink title={title} isTitleVisible={isTitleVisible} logo={logo} />

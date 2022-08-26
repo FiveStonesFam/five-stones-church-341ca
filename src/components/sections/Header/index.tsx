@@ -4,7 +4,7 @@ import { useRouter } from 'next/router';
 import classNames from 'classnames';
 
 import { Link, Action } from '../../atoms';
-import { MyDropdown } from ''
+import { MyDropdown } from '../../atoms/'
 import ImageBlock from '../../molecules/ImageBlock';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';

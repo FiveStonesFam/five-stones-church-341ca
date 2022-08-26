@@ -200,7 +200,7 @@ function ListOfLinks({ links, inMobileMenu }) {
 
 function MenuOfLinks({ links, inMobileMenu }) {
     return links.map((link, index) => (
-        <li key
+        <li key={}
         <MyDropdown {...link}></MyDropdown>
     ));
 }

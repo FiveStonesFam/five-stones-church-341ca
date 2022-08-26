@@ -83,7 +83,7 @@ function HeaderVariantB(props) {
                 <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".secondaryLinks">
                     <ListOfLinks links={secondaryLinks} inMobileMenu={false} />
                     <li><Action url="/about/" label="hello" className="                'sb-component',
-                'sb-component-block',"  /></li>
+                'sb-component-block'"  /></li>
                 </ul>
             )}
             {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}

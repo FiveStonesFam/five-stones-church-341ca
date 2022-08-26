@@ -1,9 +1,9 @@
 const path = require('path');
 
 function jankMenu() {
-    const aboutLink = document.querySelector('[href="/about/"]')
+    const aboutLink = window.document.querySelector('[href="/about/"]')
     console.log(aboutLink)
-    
+
 }
 
 module.exports = {

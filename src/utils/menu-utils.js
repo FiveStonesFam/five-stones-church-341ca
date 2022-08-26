@@ -5,7 +5,7 @@ function jankMenu() {
     const element = document.createElement('div');
           element.classList.add('blar');
           element.textContent = "Baptism"
-          element.href = ""
+          element.href = "/next"
     aboutLink.appendChild(element)
 
 }

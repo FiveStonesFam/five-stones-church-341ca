@@ -4,7 +4,7 @@ function jankMenu() {
     const aboutLink = document.querySelector('[href="/about/"]')
     const element = document.createElement('div');
           element.classList.add('blar');
-          element.textContent
+          element.textContent = "wow"
     aboutLink.appendChild(element)
 
 }

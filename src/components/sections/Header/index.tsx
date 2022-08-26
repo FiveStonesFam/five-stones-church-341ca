@@ -69,7 +69,6 @@ function HeaderVariantA(props) {
 
 function HeaderVariantB(props) {
     const { title, isTitleVisible, logo, primaryLinks = [], secondaryLinks = [] } = props;
-    jankMenu();
     return (
         <div className="flex items-center relative">
             <SiteLogoLink title={title} isTitleVisible={isTitleVisible} logo={logo} />

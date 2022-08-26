@@ -2,7 +2,7 @@ const path = require('path');
 
 function jankMenu() {
     
-    console.log(aboutLink)
+    console.log('aboutLink')
 
 }
 

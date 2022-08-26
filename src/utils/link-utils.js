@@ -5,9 +5,5 @@ function blar() {
 }
 
 module.exports = {
-    blar,
-    cssClassesFromUrlPath,
-    cssClassesFromFilePath,
-    flattenMarkdownData,
-    setEnvironmentVariables
+    blar
 };

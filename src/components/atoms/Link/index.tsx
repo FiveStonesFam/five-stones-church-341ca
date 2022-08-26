@@ -20,7 +20,7 @@ export default function Link({ children, href, ...other }) {
     );
 }
 
-function MyDropdown() {
+export function MyDropdown() {
   return (
     <Menu>
       <Menu.Button>More</Menu.Button>
